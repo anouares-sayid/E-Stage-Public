@@ -1,0 +1,12 @@
+
+.arabic{
+    width: 100%;
+    text-align: right !important;
+}
+
+.rtl{
+    direction: rtl;
+}
+.product-box{
+    margin: 25px;
+}
